@@ -1,0 +1,470 @@
+2025-01-29 07:59:19 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:10:31 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:10:58 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:10:58 INFO  TC004_AccountRegistrationTest:102 - Clicked on My Account link
+2025-01-29 08:10:59 INFO  TC004_AccountRegistrationTest:104 - Clicked on Register link
+2025-01-29 08:11:14 INFO  TC004_AccountRegistrationTest:120 - Validating Expected message...
+2025-01-29 08:11:24 INFO  TC004_AccountRegistrationTest:139 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 08:13:19 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:13:19 INFO  TC004_AccountRegistrationTest:102 - Clicked on My Account link
+2025-01-29 08:13:20 INFO  TC004_AccountRegistrationTest:104 - Clicked on Register link
+2025-01-29 08:13:34 INFO  TC004_AccountRegistrationTest:120 - Validating Expected message...
+2025-01-29 08:13:44 INFO  TC004_AccountRegistrationTest:139 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 08:22:03 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:22:03 INFO  TC004_AccountRegistrationTest:102 - Clicked on My Account link
+2025-01-29 08:22:05 INFO  TC004_AccountRegistrationTest:104 - Clicked on Register link
+2025-01-29 08:22:19 INFO  TC004_AccountRegistrationTest:120 - Validating Expected message...
+2025-01-29 08:22:29 INFO  TC004_AccountRegistrationTest:139 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 08:22:48 INFO  TC004_AccountRegistrationTest:93 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 08:22:48 INFO  TC004_AccountRegistrationTest:102 - Clicked on My Account link
+2025-01-29 08:22:49 INFO  TC004_AccountRegistrationTest:104 - Clicked on Register link
+2025-01-29 08:23:03 INFO  TC004_AccountRegistrationTest:120 - Validating Expected message...
+2025-01-29 08:23:13 INFO  TC004_AccountRegistrationTest:139 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:29:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:31:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:32:52 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 22:32:53 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 22:32:53 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 22:33:07 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 22:33:17 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:33:19 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 22:33:31 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:33:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:33:34 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:33:40 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:33:40 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:33:54 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:33:54 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:34:08 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:34:08 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:34:22 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:34:22 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:34:26 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:34:26 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:34:40 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:37:31 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 22:37:31 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 22:37:31 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 22:37:45 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 22:37:55 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:37:57 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 22:38:08 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 22:38:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:38:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:38:13 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:38:17 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:38:17 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:38:31 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:38:31 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:38:45 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:38:45 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:39:00 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:39:00 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:39:04 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:39:04 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:39:18 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:47:50 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 22:47:50 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 22:47:51 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 22:48:04 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 22:48:14 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:48:16 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 22:48:28 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 22:48:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 22:48:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 22:48:31 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:48:36 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:48:36 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:48:50 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:48:50 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:49:04 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:49:04 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:49:18 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:49:18 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:49:22 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:49:22 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 22:49:36 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 22:49:56 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 22:49:56 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 22:49:56 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 22:50:09 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 22:50:19 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:50:22 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 22:50:33 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 22:51:39 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 22:51:39 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 22:51:40 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 22:51:53 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 22:52:03 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 22:52:06 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 22:52:17 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 23:20:20 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 23:20:20 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 23:20:21 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 23:20:35 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 23:20:45 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 23:20:47 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 23:20:58 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 23:22:08 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-29 23:22:08 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-29 23:22:09 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-29 23:22:22 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-29 23:22:32 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-29 23:22:34 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-29 23:22:46 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-29 23:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-29 23:22:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-29 23:22:50 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******
+2025-01-29 23:22:55 INFO  TC003_LoginDDT:53 - *****Finishing TC003_LoginDTT******
+2025-01-29 23:22:55 INFO  TC003_LoginDDT:16 - *****Starting TC003_LoginDTT******

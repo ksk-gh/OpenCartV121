@@ -1,0 +1,27 @@
+2025-01-19 10:47:38 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-19 10:47:38 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-19 10:48:45 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-19 10:49:14 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-19 10:49:14 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-19 10:49:15 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-19 10:49:30 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-19 10:49:40 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-19 10:49:43 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-19 10:52:07 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-19 10:52:07 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-19 10:52:08 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-19 10:52:22 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-19 10:52:22 ERROR TC001_AccountRegistrationTest:50 - Test Failed..
+2025-01-19 10:52:22 DEBUG TC001_AccountRegistrationTest:51 - Debug logs...
+2025-01-19 10:52:26 INFO  TC002_LoginTest:16 - *********Start TC002_LoginTest*********
+2025-01-19 10:52:39 INFO  TC002_LoginTest:37 - ****Finished TC002_LoginTest****
+2025-01-19 10:53:20 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-19 10:53:21 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-19 10:53:22 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-19 10:53:36 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-19 10:53:46 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
+2025-01-19 10:57:56 INFO  TC001_AccountRegistrationTest:17 - *****Starting TC001_AccountRegistrationTest ****
+2025-01-19 10:57:56 INFO  TC001_AccountRegistrationTest:26 - Clicked on My Account link
+2025-01-19 10:57:58 INFO  TC001_AccountRegistrationTest:28 - Clicked on Register link
+2025-01-19 10:58:15 INFO  TC001_AccountRegistrationTest:44 - Validating Expected message...
+2025-01-19 10:58:25 INFO  TC001_AccountRegistrationTest:63 - ******Finished TC001_AccountRegistrationTest******
